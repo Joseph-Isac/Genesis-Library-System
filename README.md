@@ -4,6 +4,8 @@ However, it has a special feature - it can extract the text from images. The pro
 GLS is also able to display the book in two unique ways: 
   1. As normal text in readable format
   2. As an audio file which can be played anytime Genesis Library System takes into consideration the situation of visually handicapped people, and offers to read the saved books to the user, provided they have a stable internet connection, which is sure to be present in most modern homes and offices. The program also saves these audio playbacks as mp3 files which are accessible separately
+
+
 The program follows the below structure based on functions:
 | User program
 |_ _ _
