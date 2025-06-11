@@ -1,0 +1,6 @@
+pip install gTTS
+
+pip install pillow 
+
+pytesseract -
+https://www.youtube.com/watch?v=DG5D8A3zi4o&t=58s
