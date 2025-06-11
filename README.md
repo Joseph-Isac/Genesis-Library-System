@@ -7,6 +7,8 @@ GLS is also able to display the book in two unique ways:
 
 
 The program follows the below structure based on functions:
+
+
 | User program
 |_ _ _
       | Modules
