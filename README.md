@@ -16,6 +16,9 @@ The program follows the below structure based on functions:
             | imagetotext.py
             | mp3.py
             | main_pgm.py
+
+
+
 We also extensively used the below mentioned python modules in order to bring our program to reality:
   1. os: In order to access the books folder and the saved books within.
   2. time: To provide sufficient delay between each function in order to make it more user friendly and also to keep track of the program run time.
